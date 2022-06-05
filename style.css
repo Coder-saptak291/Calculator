@@ -16,3 +16,13 @@ input{
     width: 22.8vw;
     margin-bottom: 4vh;
 }
+@media only screen and (max-width:600px) {
+  input{
+      width:59vw;
+    
+  }
+  .btn{
+    width:15vw;
+        
+  }
+}
